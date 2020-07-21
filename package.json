@@ -1,0 +1,27 @@
+{
+  "name": "credence",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishakp/credence_weatherAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manishakp/credence_weatherAPI/issues"
+  },
+  "homepage": "https://github.com/manishakp/credence_weatherAPI#readme",
+  "description": ""
+}
